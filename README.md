@@ -36,21 +36,25 @@ Przykładowy wynik działania programu:
    Koszty kredytu (odsetki):
    raty stałe:  279767.35 vs. raty malejące:  225625.0
 
+#############################################################
 
-| 2083
- 
-|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp '''''''......
-      
-|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp '''''''......
-                   
-| ******************************************** 1610    raty stałe
- 
-|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp '''''''......
-                              
-|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp '''''''......
-                                          
-|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp '''''''...... 836     raty malejące
+2083 
 
-|,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+| \\\\\\\\\\\\\\'''''''......
+
+| \\\\\\\\\\\\\\\\\\\\\\\\\\\\'''''''......
+
+| *************************************** 1610    raty stałe
+
+| \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'''''''......
+
+| \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'''''''......
+
+| \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'''''''...... 836     raty malejące
+
+|
+
+|
 
 |1 ........................... 136 ....................................... 360      [miesiące]
+
